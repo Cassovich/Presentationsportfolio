@@ -1,0 +1,22 @@
+.container > div {
+  padding: 20px 40px;
+  text-align: center;
+  font-size: 2em;
+  color: #8D0E0E;
+  background-color: #FED1B2;
+  border-radius: 150px;
+}
+
+.container div:hover {
+  padding: 25px 45px;
+}
+
+.container{
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-start;
+
+}
+body{
+  background-color: #FAB5B8;
+}
